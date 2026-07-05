@@ -1,0 +1,17 @@
+body {
+    background-color: #141a1c
+}
+
+.hero {
+    text-align: centre;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.hero h1 {
+    color: darkgreen;
+}
+.hero p {
+    color: #cca47c;
+}
+    
+    
