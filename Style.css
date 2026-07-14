@@ -2,53 +2,6 @@ body {
     background-color: #141a1c;
 }
 
-.hero {
-      text-align: center;       
-      /* centre spelling must be center according to coding language  */
-     padding-top: 60px;
-     padding-bottom: 40px;
-     /* padding system gives more premium look instead of crowded */
-
-}     
-.hero h1 {
-    color: darkgreen;
-}
-.hero p {
-    color: #cca47c;
-}
-.search {
-    text-align: center ; 
-    /* brings text in center  */
-    padding-bottom: 40px ;
-}
-.search input {
-    background-color: #0d1214;
-     color: #4a756e;   
-     /*the text color when we type */
-    border-radius: px;
-    /* this turns sharp edge into curved ones so now not needed */
-    border: solid #233936;
-    padding: 20px 10px;
-    /* Internal space 10px top and bottom, 20px left and right. */
-    width: 50%;
-    /* Makes the search bar wide */
-    font-size: 14px;
-    outline: #0d1214;
-    /* Browser outline when clicked */
-    display: flex;
-    justify-content: center;
-     
-} 
-.filter-tags button {
-    background-color:teal ;
-    color: #233936;
-    border: darkolivegreen;
-    border-radius: 20px;
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 14px;
-    margin: 0px;
-}
 
 
 
