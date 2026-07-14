@@ -37,8 +37,7 @@ body {
     /* Browser outline when clicked */
     display: flex;
     justify-content: center;
-    align-items: center;
-    gap: 15px;
+     
 } 
 .filter-tags button {
     background-color:teal ;
